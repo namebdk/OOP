@@ -1,0 +1,24 @@
+MainSystem.cpp
+main()
+
+기본 함수
+glutDisplayFunc
+glutIdleFunc
+
+render
+
+class CScene
+class CGameScene:CScene
+
+class Item
+class PassiveItem:Item
+class ActiveItem:Item
+class Player - 1,2 상속
+class WaterBalloon
+class Map
+	class Wall
+	class Grid
+	(class Tile)
+class GameEngine
+(class Sound)
+(class Sprite)
